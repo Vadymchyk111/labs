@@ -1,0 +1,6 @@
+C:\Users\Vadym\source\repos\ConsoleApp2\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Vadym\source\repos\ConsoleApp2\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Vadym\source\repos\ConsoleApp2\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Vadym\source\repos\ConsoleApp2\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Vadym\source\repos\ConsoleApp2\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\Vadym\source\repos\ConsoleApp2\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache

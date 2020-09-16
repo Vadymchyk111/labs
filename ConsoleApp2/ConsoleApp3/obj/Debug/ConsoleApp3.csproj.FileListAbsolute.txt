@@ -1,0 +1,6 @@
+C:\Users\Vadym\source\repos\ConsoleApp2\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Vadym\source\repos\ConsoleApp2\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Vadym\source\repos\ConsoleApp2\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Vadym\source\repos\ConsoleApp2\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Vadym\source\repos\ConsoleApp2\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Vadym\source\repos\ConsoleApp2\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
