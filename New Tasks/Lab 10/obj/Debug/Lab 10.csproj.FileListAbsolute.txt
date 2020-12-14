@@ -1,0 +1,7 @@
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 10\bin\Debug\Lab 10.exe.config
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 10\bin\Debug\Lab 10.exe
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 10\bin\Debug\Lab 10.pdb
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 10\obj\Debug\Lab 10.csprojAssemblyReference.cache
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 10\obj\Debug\Lab 10.csproj.CoreCompileInputs.cache
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 10\obj\Debug\Lab 10.exe
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 10\obj\Debug\Lab 10.pdb

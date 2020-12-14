@@ -1,0 +1,7 @@
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 8.2\obj\Debug\Lab 8.2.csproj.CoreCompileInputs.cache
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 8.2\bin\Debug\Lab 8.2.exe.config
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 8.2\bin\Debug\Lab 8.2.exe
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 8.2\bin\Debug\Lab 8.2.pdb
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 8.2\obj\Debug\Lab 8.2.exe
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 8.2\obj\Debug\Lab 8.2.pdb
+C:\Users\mmish\source\repos\Vadim_Labs_Sharp\Lab 8.2\obj\Debug\Lab 8.2.csprojAssemblyReference.cache
