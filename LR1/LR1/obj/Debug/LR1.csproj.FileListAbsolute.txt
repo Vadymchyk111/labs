@@ -1,0 +1,10 @@
+C:\Users\Andrey\Desktop\Новая папка (2)\LR1\LR1\bin\Debug\LR1.exe.config
+C:\Users\Andrey\Desktop\Новая папка (2)\LR1\LR1\bin\Debug\LR1.exe
+C:\Users\Andrey\Desktop\Новая папка (2)\LR1\LR1\bin\Debug\LR1.pdb
+C:\Users\Andrey\Desktop\Новая папка (2)\LR1\LR1\obj\Debug\LR1.csprojAssemblyReference.cache
+C:\Users\Andrey\Desktop\Новая папка (2)\LR1\LR1\obj\Debug\LR1.Form1.resources
+C:\Users\Andrey\Desktop\Новая папка (2)\LR1\LR1\obj\Debug\LR1.Properties.Resources.resources
+C:\Users\Andrey\Desktop\Новая папка (2)\LR1\LR1\obj\Debug\LR1.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\Новая папка (2)\LR1\LR1\obj\Debug\LR1.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Новая папка (2)\LR1\LR1\obj\Debug\LR1.exe
+C:\Users\Andrey\Desktop\Новая папка (2)\LR1\LR1\obj\Debug\LR1.pdb
