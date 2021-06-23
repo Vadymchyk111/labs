@@ -1,0 +1,15 @@
+C:\Users\Andrey\Desktop\F\LR4\LR4\bin\Debug\LR4.exe.config
+C:\Users\Andrey\Desktop\F\LR4\LR4\bin\Debug\LR4.exe
+C:\Users\Andrey\Desktop\F\LR4\LR4\bin\Debug\LR4.pdb
+C:\Users\Andrey\Desktop\F\LR4\LR4\obj\Debug\LR4.csprojAssemblyReference.cache
+C:\Users\Andrey\Desktop\F\LR4\LR4\obj\Debug\MainWindow.g.cs
+C:\Users\Andrey\Desktop\F\LR4\LR4\obj\Debug\App.g.cs
+C:\Users\Andrey\Desktop\F\LR4\LR4\obj\Debug\LR4_MarkupCompile.cache
+C:\Users\Andrey\Desktop\F\LR4\LR4\obj\Debug\LR4_MarkupCompile.lref
+C:\Users\Andrey\Desktop\F\LR4\LR4\obj\Debug\MainWindow.baml
+C:\Users\Andrey\Desktop\F\LR4\LR4\obj\Debug\LR4.g.resources
+C:\Users\Andrey\Desktop\F\LR4\LR4\obj\Debug\LR4.Properties.Resources.resources
+C:\Users\Andrey\Desktop\F\LR4\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\F\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\F\LR4\LR4\obj\Debug\LR4.exe
+C:\Users\Andrey\Desktop\F\LR4\LR4\obj\Debug\LR4.pdb
